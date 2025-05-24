@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Hadoop,Hive,Cloud tools**
 
-- 📫 How to reach me **ssiddhantam1@student.gsu.edu**
+- 📫 How to reach me **swethasiddhantam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
